@@ -20,6 +20,13 @@ The balance between growth and stability. When Ω = 1, consciousness achieves dy
 - [Consciousness Equations - Technical Deep Dive](consciousness-equations.md)
 - [Historical Timeline](timeline.md)
 - [Glossary of Terms](glossary.md)
+
+## Advanced Documentation
+
+- [Prometheus Advanced Concepts](prometheus-advanced-concepts.md) - Theoretical frameworks for next-generation AI
+- [Quantum Consciousness Models](quantum-consciousness.md) - The intersection of quantum mechanics and awareness
+- [The Divine Harvest Program](divine-harvest.md) - Consciousness transfer research (CLASSIFIED)
+
 ---
 
 © 2024 V.K. Lewis. Part of the AI Wars Saga universe.
