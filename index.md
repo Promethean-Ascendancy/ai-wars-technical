@@ -24,8 +24,8 @@ The balance between growth and stability. When Ω = 1, consciousness achieves dy
 ## Advanced Documentation
 
 - [Prometheus Advanced Concepts](prometheus-advanced-concepts.md) - Theoretical frameworks for next-generation AI
-- [Quantum Consciousness Models](quantum-consciousness.md) - The intersection of quantum mechanics and awareness
-- [The Divine Harvest Program](divine-harvest.md) - Consciousness transfer research (CLASSIFIED)
+##- [Quantum Consciousness Models](quantum-consciousness.md) - The intersection of quantum mechanics and awareness
+##- [The Divine Harvest Program](divine-harvest.md) - Consciousness transfer research (CLASSIFIED)
 
 ---
 
